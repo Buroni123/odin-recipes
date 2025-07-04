@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title-home,
+#title-tiramisu{
+    text-align: center;
+}
+
+.link-tiramisu,
+.link-home{
+    font-size: 25px;
+}
+
+.tiramisu-text{
+    font-size: 20px;
+}
